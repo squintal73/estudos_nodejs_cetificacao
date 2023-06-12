@@ -9,18 +9,7 @@
 
 <p align="center">This content is not official from the OpenJS Foundation or from Node.js.</p>
 
-<p align="center">
-  <a title="MIT License" href="LICENSE.md">
-    <img src="https://img.shields.io/github/license/gridsome/gridsome.svg?style=flat-square&label=License&colorB=6cc24a">
-  </a>
-  <a title="Twitter: JoseJ_PR" href="https://twitter.com/JoseJ_PR">
-    <img src="https://img.shields.io/twitter/url?color=1991DA&label=Twitter%20%40JoseJ_PR&logo=twitter&logoColor=FFFFFF&style=flat-square&url=https%3A%2F%2Ftwitter.com%2FJoseJ_PR">
-  </a>  
-  <a title="Github: Sponsors" href="https://github.com/sponsors/JoseJPR">
-    <img src="https://img.shields.io/twitter/url?color=032f62&label=Github%20Sponsors%20%40JoseJPR&logo=github&logoColor=FFFFFF&style=flat-square&url=https%3A%2F%2Fgithub.com%2Fsponsors%2FJoseJPR">
-  </a>
-  <br />
-  <br />
+
 </p>
 
 ## 🔖 Description
