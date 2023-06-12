@@ -3,7 +3,7 @@
   <br /> <br />
 </p>
 
-<h1 align="center">My own preparation for Node.js Certification</h1>
+<h1 align="center">Preparation for Node.js Certification</h1>
 
 <p align="center">🎓 This repository contains examples that I have done for my own preparation for the Node.js certification exam - Application Developer (JSNAD).</p>
 
